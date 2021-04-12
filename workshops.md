@@ -16,3 +16,9 @@ title: Workshops
  - hard
  - scary
  - unresponsive
+
+## Video
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/ewkVPGldsCQ" frameborder="0" allowfullscreen></iframe>
+
+### More stuff
