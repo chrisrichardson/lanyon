@@ -24,21 +24,21 @@ development; and, (iii) how multi-physics simulations can optimally
 exploit heterogeneous hardware platforms.
 
 ## Tuesday 14 July 2020
-#### All times are in BST (GMT+1)
+### All times are in BST (GMT+1)
 
 - 13:00 Introduction, Garth Wells, University of Cambridge
 - 13:15 <a href="#ulrich-rüde-fau-erlangen-nürnberg">Ulrich Rüde, FAU Erlangen-Nürnberg</a>
 - 13:45 <a href="#lorena-barba-george-washington-university">Lorena Barba, George Washington University</a>
 - 14:15 break
 - 14:45 <a href="#tim-costa-nvidia">Tim Costa, NVIDIA</a>
-- 15:15 <a href="https://youtu.be/zamUkpm1gRA">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#jed-brown-university-of-colorado-boulder">Jed Brown, University of Colorado, Boulder</a>
+- 15:15 <a href="#jed-brown-university-of-colorado-boulder">Jed Brown, University of Colorado, Boulder</a>
 - 15:45 break
-- 16:15 <a href="https://youtu.be/16qFqQpXqjk">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#jeff-hammond-intel">Jeff Hammond, Intel</a>
+- 16:15 <a href="#jeff-hammond-intel">Jeff Hammond, Intel</a>
 - 16:45 breakout - social
 
 
 ## Wednesday 15 July 2020
-#### All times are in BST (GMT+1)
+### All times are in BST (GMT+1)
 
 - 13:00 Introduction, Simon McIntosh-Smith, University of Bristol
 - 13:15 <a href="https://youtu.be/nSXaouT4ZUo">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#sato-mitsuhisa-riken-japan">Sato Mitsuhisa, Riken, Japan</a>
@@ -52,7 +52,7 @@ exploit heterogeneous hardware platforms.
 
 
 ### Ulrich Rüde, FAU Erlangen-Nürnberg
-##### [waLBerla - Towards extreme scale multiphysics simulations](https://doi.org/10.13140/RG.2.2.17176.62727)
+#### [waLBerla - Towards extreme scale multiphysics simulations](https://doi.org/10.13140/RG.2.2.17176.62727)
 
 <div class="iframeVideo">
 <iframe width="420" height="315" src="https://www.youtube.com/embed/HiutQfwhYSg" frameborder="0" allowfullscreen></iframe>
@@ -75,7 +75,7 @@ the features of waLBerla with some multiphysics applications.
 
 
 ### Lorena Barba, George Washington University
-##### ExaFMM - 10+ years, 7 re-writes. The tortuous progress of computational research.
+#### ExaFMM - 10+ years, 7 re-writes. The tortuous progress of computational research.
 
 <div class="iframeVideo">
 <iframe src="https://www.youtube.com/embed/4ypw1AXMP6E" frameborder="0" allowfullscreen></iframe>
@@ -93,11 +93,11 @@ this one is the definitive one.
 
 
 ### Tim Costa, NVIDIA
-##### Accelerated Computing in 2020 and Beyond
+#### Accelerated Computing in 2020 and Beyond
 
 
 ### Jed Brown, University of Colorado, Boulder
-##### Libraries, communities, and performance portability
+#### Libraries, communities, and performance portability
 
 <div class="iframeVideo">
 <iframe src="https://www.youtube.com/embed/zamUkpm1gRA" frameborder="0" allowfullscreen></iframe>
@@ -111,7 +111,11 @@ fallacies, as well as techniques and methods of evaluation that help
 to align incentives and improve communication.
 
 ### Jeff Hammond, Intel
-##### Programming heterogeneous systems using SYCL 2020, OpenMP 5 and oneAPI
+#### Programming heterogeneous systems using SYCL 2020, OpenMP 5 and oneAPI
+
+<div class="iframeVideo">
+<iframe src="https://www.youtube.com/embed/16qFqQpXqjk" frameborder="0" allowfullscreen></iframe>
+</div>
 
 I will explain Intel's oneAPI initiative, including direct programming
 support for accelerators using SYCL 2020 and OpenMP 5.
@@ -120,7 +124,7 @@ port their code to ever platform using a different programming model
 or who need to maintain simulation codes for one or more decades.
 
 ### Sato Mitsuhisa, Riken, Japan
-##### The SuperComputer "Fugaku" with available software and programming tools
+#### The SuperComputer "Fugaku" with available software and programming tools
 
 We have been carrying out the FLAGSHIP 2020 to develop the Japanese
 next-generation flagship supercomputer, Post-K, named as “Fugaku”
