@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Workshop on "Software Engineering"
+layout: default
+title: "Software Engineering"
 ---
 
 ## Workshop on "Software Engineering"
@@ -27,8 +27,16 @@ exploit heterogeneous hardware platforms.
 #### All times are in BST (GMT+1)
 
 - 13:00 Introduction, Garth Wells, University of Cambridge
-- 13:15 <a href="https://youtu.be/HiutQfwhYSg">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Ulrich Rüde, FAU Erlangen-Nürnberg</a>
-- 13:45 <a href="https://youtu.be/4ypw1AXMP6E">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#lorena-barba-george-washington-university">Lorena Barba, George Washington University</a>
+- 13:15 <a href="#ulrich-rüde-fau-erlangen-nürnberg">Ulrich Rüde, FAU Erlangen-Nürnberg</a>
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/HiutQfwhYSg" frameborder="0" allowfullscreen></iframe>
+</div>
+
+- 13:45 <a href="#lorena-barba-george-washington-university">Lorena Barba, George Washington University</a>
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/4ypw1AXMP6E" frameborder="0" allowfullscreen></iframe>
+</div>
+
 - 14:15 break
 - 14:45 <a href="#tim-costa-nvidia">Tim Costa, NVIDIA</a>
 - 15:15 <a href="https://youtu.be/zamUkpm1gRA">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#jed-brown-university-of-colorado-boulder">Jed Brown, University of Colorado, Boulder</a>

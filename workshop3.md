@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Towards Exascale Simulation of integrated engineering systems"
 ---
 
 ## Workshop on "Towards Exascale Simulation of integrated engineering systems at extreme scale"

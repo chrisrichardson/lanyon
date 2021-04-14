@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Data Assimilation and Uncertainty Quantification"
 ---
 
 ## Workshop on "Data Assimilation and Uncertainty Quantification at the exascale", 24-25 September 2020

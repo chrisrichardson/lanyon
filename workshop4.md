@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Inverse Problems and Optimisation"
 ---
 
 ## Workshop on "Inverse Problems and Optimisation" 6-7 May 2021
