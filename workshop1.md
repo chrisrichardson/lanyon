@@ -41,13 +41,13 @@ exploit heterogeneous hardware platforms.
 ### All times are in BST (GMT+1)
 
 - 13:00 Introduction, Simon McIntosh-Smith, University of Bristol
-- 13:15 <a href="https://youtu.be/nSXaouT4ZUo">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#sato-mitsuhisa-riken-japan">Sato Mitsuhisa, Riken, Japan</a>
-- 13:45 <a href="https://youtu.be/ewkVPGldsCQ">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#tom-deakin-university-of-bristol-uk">Tom Deakin, University of Bristol, UK</a>
+- 13:15 <a href="#sato-mitsuhisa-riken-japan">Sato Mitsuhisa, Riken, Japan</a>
+- 13:45 <a href="#tom-deakin-university-of-bristol-uk">Tom Deakin, University of Bristol, UK</a>
 - 14:15 break
-- 14:45 <a href="https://youtu.be/ANbR5WATyQQ">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#hal-finkel-argonne-national-laboratory">Hal Finkel, Argonne National Laboratory</a>
-- 15:15 <a href="https://youtu.be/MR4qaY7xeD8">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#mike-heroux-sandia-national-laboratories">Mike Heroux, Sandia National Laboratories</a>
+- 14:45 <a href="#hal-finkel-argonne-national-laboratory">Hal Finkel, Argonne National Laboratory</a>
+- 15:15 <a href="#mike-heroux-sandia-national-laboratories">Mike Heroux, Sandia National Laboratories</a>
 - 15:45 break
-- 16:15 <a href="https://youtu.be/CQNpbbYzZqE">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#kumudha-narasimhan-codeplay">Kumudha Narasimhan, Codeplay</a>
+- 16:15 <a href="#kumudha-narasimhan-codeplay">Kumudha Narasimhan, Codeplay</a>
 - 16:45 breakout - social
 
 
@@ -126,6 +126,10 @@ or who need to maintain simulation codes for one or more decades.
 ### Sato Mitsuhisa, Riken, Japan
 #### The SuperComputer "Fugaku" with available software and programming tools
 
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/nSXaouT4ZUo" frameborder="0" allowfullscreen></iframe>
+</div>
+
 We have been carrying out the FLAGSHIP 2020 to develop the Japanese
 next-generation flagship supercomputer, Post-K, named as “Fugaku”
 recently. In the project, we have designed a new Arm-SVE enabled
@@ -140,6 +144,10 @@ some preliminary performance results.
 
 ### Tom Deakin, University of Bristol, UK
 ##### Performance Portability across Diverse Architectures
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ewkVPGldsCQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 The range of computer architectures used in supercomputers today is
 growing in diversity. The Exascale machines due to be online by next
@@ -157,6 +165,10 @@ Group at the University of Bristol.
 
 ### Hal Finkel, Argonne National Laboratory
 ##### Programming Models and Compiler Technology for Exascale
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ANbR5WATyQQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Exascale systems will present application authors with a diverse set
 of programming models targeting a diverse set of hardware
@@ -177,6 +189,10 @@ just-in-time compilation to maximize performance.
 ### Mike Heroux, Sandia National Laboratories
 ##### The Extreme-scale Scientific Software Stack for Collaborative Open Source Software
 
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/MR4qaY7xeD8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Open source, community-developed reusable scientific software represents a large and growing body of capabilities. Linux distributions, vendor software stacks and individual disciplined software product teams provide the scientific computing community with usable holistic software environments containing core open source software components. At the same time, new software capabilities make it into these distributions in a largely ad hoc fashion.
 The Extreme-scale Scientific Software Stack (E4S),first announced in November 2018, along with its community-organized scientific software development kits (SDKs), is a new community effort to create lightweight cross-team coordination of scientific software development, delivery and deployment and a set of support tools an processes targeted at improving scientific software quality via improved practices, policy, testing and coordination.
 [E4S](https://e4s.io), which announced the release of Version 1.0 in November 2019, is an open architecture effort, welcoming teams that are developing technically compatible and high-quality products to participate in the community. E4S and the SDKs are sponsored by the US Department of Energy Exascale Computing Project (ECP), driven by our need to effectively develop, test, deliver and deploy our open source software products on next generation platform to the scientific community.
@@ -185,6 +201,10 @@ In this presentation, we introduce E4S, discuss its design and implementation go
 
 ### Kumudha Narasimhan, Codeplay
 ##### SYCL Performance and Portability
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/CQNpbbYzZqE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Over recent years heterogeneous systems have become more popular
 across HPC systems, with over 100 supercomputers in the TOP500
