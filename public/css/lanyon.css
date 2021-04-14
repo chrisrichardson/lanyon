@@ -561,10 +561,13 @@ a.pagination-item:hover {
  */
 
 .iframeVideo {
-	height: 0px;
 	padding-top: 25px;
-	padding-bottom: 100%;
+	padding-bottom: 56.2%;
 	position: relative;
+	display: block;
+	max-width: 100%;
+	margin: 0 0 1rem;
+	border-radius: 5px;
 }
 .iframeVideo iframe {
 	width: 100%;
