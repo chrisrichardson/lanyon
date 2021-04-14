@@ -5,15 +5,15 @@ title: Workshops
 
 # Workshops 2020-2021
 
-#### [Workshop on "Software Engineering"](workshop1.html) 14-15 July 2020
+#### [Workshop on "Software Engineering"](/workshop1.html) 14-15 July 2020
 
-#### [Workshop on "Data Assimilation and UQ"](workshop2.html) 24-25 September 2020
+#### [Workshop on "Data Assimilation and UQ"](/workshop2.html) 24-25 September 2020
 
-#### [Workshop on "Integrated Engineering"](workshop3.html) 21-22 January 2021
+#### [Workshop on "Integrated Engineering"](/workshop3.html) 21-22 January 2021
 
-#### [Workshop on "Inverse Problems and Optimisation"](workshop4.html) 6-7 May 2021
+#### [Workshop on "Inverse Problems and Optimisation"](/workshop4.html) 6-7 May 2021
 
-#### [Workshop on "Data Visualisation and Data Flows"](workshop5.html) 16-17 June 2021
+#### [Workshop on "Data Visualisation and Data Flows"](/workshop5.html) 16-17 June 2021
 
 
 ## Video
