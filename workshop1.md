@@ -28,15 +28,7 @@ exploit heterogeneous hardware platforms.
 
 - 13:00 Introduction, Garth Wells, University of Cambridge
 - 13:15 <a href="#ulrich-rüde-fau-erlangen-nürnberg">Ulrich Rüde, FAU Erlangen-Nürnberg</a>
-<div class="iframeVideo">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/HiutQfwhYSg" frameborder="0" allowfullscreen></iframe>
-</div>
-
 - 13:45 <a href="#lorena-barba-george-washington-university">Lorena Barba, George Washington University</a>
-<div class="iframeVideo">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/4ypw1AXMP6E" frameborder="0" allowfullscreen></iframe>
-</div>
-
 - 14:15 break
 - 14:45 <a href="#tim-costa-nvidia">Tim Costa, NVIDIA</a>
 - 15:15 <a href="https://youtu.be/zamUkpm1gRA">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#jed-brown-university-of-colorado-boulder">Jed Brown, University of Colorado, Boulder</a>
@@ -62,6 +54,10 @@ exploit heterogeneous hardware platforms.
 ### Ulrich Rüde, FAU Erlangen-Nürnberg
 ##### [waLBerla - Towards extreme scale multiphysics simulations](https://doi.org/10.13140/RG.2.2.17176.62727)
 
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/HiutQfwhYSg" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Programming supercomputers remains challenging. Multiple levels of
 parallelism must be exploited in the core, on the compute node, and
 between nodes. Heterogeneous hardware with accelerators further
@@ -81,6 +77,10 @@ the features of waLBerla with some multiphysics applications.
 ### Lorena Barba, George Washington University
 ##### ExaFMM - 10+ years, 7 re-writes. The tortuous progress of computational research.
 
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/4ypw1AXMP6E" frameborder="0" allowfullscreen></iframe>
+</div>
+
 The story of writing codes in my lab for one algorithm, over and over,
 illustrates the sometimes tortuous progress of computational
 research. This tale speaks of the inherent tension between the
@@ -98,6 +98,10 @@ this one is the definitive one.
 
 ### Jed Brown, University of Colorado, Boulder
 ##### Libraries, communities, and performance portability
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/zamUkpm1gRA" frameborder="0" allowfullscreen></iframe>
+</div>
 
 We take a holistic view of efficiently using human and compute
 resources via libraries and community building.  Performance
