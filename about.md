@@ -3,9 +3,12 @@ layout: page
 title: About
 ---
 
+## Excascale Computing for System Level Engineering
+### An Excalibur Design and Development Working Group
 
 
-### Other DDWG
+
+### Other Excalibur Design and Development Working Groups
 
 * Benchmarking for AI for Science at Exascale (BASE)
 * [ELEMENT - Exascale Mesh Network](https://epcced.github.io/ELEMENT)
