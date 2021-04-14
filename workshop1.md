@@ -78,7 +78,7 @@ the features of waLBerla with some multiphysics applications.
 ##### ExaFMM - 10+ years, 7 re-writes. The tortuous progress of computational research.
 
 <div class="iframeVideo">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/4ypw1AXMP6E" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/4ypw1AXMP6E" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The story of writing codes in my lab for one algorithm, over and over,
@@ -100,7 +100,7 @@ this one is the definitive one.
 ##### Libraries, communities, and performance portability
 
 <div class="iframeVideo">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/zamUkpm1gRA" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zamUkpm1gRA" frameborder="0" allowfullscreen></iframe>
 </div>
 
 We take a holistic view of efficiently using human and compute
