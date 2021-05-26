@@ -2,7 +2,7 @@
 title:               Excalibur-SLE
 tagline:             'Exascale HPC for System Level Engineering'
 description:         'An Excalibur Design and Development Working Group'
-url:                 https://chrisrichardson.github.io/lanyon
+url:                 https://excalibur-sle.github.io/web
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -18,7 +18,7 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.2.0
+version:             1.0.0
 # google_analytics_id:
 github:
   repo: https://github.com/excalibur-sle
