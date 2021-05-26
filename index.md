@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-
 ## Exascale Computing for System-Level Engineering
 ### Design, Optimisation and Resilience
 
@@ -50,3 +49,32 @@ the vast quantities of data that exascale simulations will
 generate. The working group will formulate roadmaps for enabling
 research for exascale computing, and support research software
 engineer training for exascale-ready software skills.
+
+
+### Other Excalibur Design and Development Working Groups
+
+* Benchmarking for AI for Science at Exascale (BASE)
+* [ELEMENT - Exascale Mesh Network](https://epcced.github.io/ELEMENT)
+* [EXALAT - Lattice Field Theory at the Exascale Frontier](https://www.exalat.org/)
+* [ExaClaw: Clawpack-enabled ExaHyPE for heterogeneous hardware](http://www.peano-framework.org/index.php/projects/exaclaw-clawpack-enabled-exahype-for-heterogeneous-hardware)
+* EXCALIBUR-HEP
+* [GenX - Exascale continuum mechanics through code generation](https://excalibur-genx.github.io)
+* [Materials And Molecular Modelling](https://mmmhub.ac.uk/excalibur-ddwg)
+* [Massively Parallel Particle Hydrodynamics](https://www.dur.ac.uk/icc/cosma/excalibur/mpphea/)
+* [ExCALIBUR Working Group on turbulence at the exascale](https://www.ukturbulence.co.uk/excalibur-podcast.html)
+
+
+<div>
+<div style="float: left; padding: 10px ">
+<img height=50 src="../public/University_College_London_logo.png">
+<img height=50 src="../public/Manchester_white_background.png">
+<img height=50 src="../public/Edinburgh.png">
+<img height=50 src="../public/EPSRC+logo.png">
+</div>
+<div style="float: left; padding: 10px">
+<img height=50 src="../public/cambridge.jpg">
+<img height=50 src="../public/University_of_Bristol_logo.png">
+<img height=50 src="../public/Turing logo_0.webp">
+<img height=50 src="../public/STFC+logo.png">
+</div>
+</div>

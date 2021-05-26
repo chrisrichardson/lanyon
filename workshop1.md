@@ -1,9 +1,7 @@
 ---
-layout: default
-title: "Software Engineering"
+layout: page
+title: "Workshop I: Software Engineering"
 ---
-
-## Workshop on "Software Engineering"
 
 Getting scientific applications ready for exascale is a huge
 undertaking. Very few of today’s codes can take full advantage of

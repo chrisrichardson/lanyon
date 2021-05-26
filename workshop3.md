@@ -1,9 +1,7 @@
 ---
-layout: default
-title: "Towards Exascale Simulation of integrated engineering systems"
+layout: page
+title: "Workshop III: Towards Exascale Simulation of Integrated Engineering Systems"
 ---
-
-## Workshop on "Towards Exascale Simulation of integrated engineering systems at extreme scale"
 
 The imminent deployment of exascale computing will usher in a new era
 of engineering system prediction, design and optimisation. It would

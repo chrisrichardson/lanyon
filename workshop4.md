@@ -1,9 +1,7 @@
 ---
-layout: default
-title: "Inverse Problems and Optimisation"
+layout: page
+title: "Workshop IV: Inverse Problems and Optimisation"
 ---
-
-## Workshop on "Inverse Problems and Optimisation" 6-7 May 2021
 
 Inverse problems are concerned with the recovery of the parameters of a
 forward model given observations of data that it describes. Such

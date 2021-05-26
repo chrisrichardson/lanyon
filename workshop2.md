@@ -1,9 +1,7 @@
 ---
-layout: default
-title: "Data Assimilation and Uncertainty Quantification"
+layout: page
+title: "Workshop II: Data Assimilation and Uncertainty Quantification"
 ---
-
-## Workshop on "Data Assimilation and Uncertainty Quantification at the exascale", 24-25 September 2020
 
 Uncertainty Quantification (UQ) includes the propagation of
 uncertainty from inputs to outputs through simulators, as well as
